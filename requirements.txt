@@ -1,2 +1,9 @@
+%%writefile requirements.txt
+
 streamlit
+langchain
+langchain-core
 langchain-groq
+langchain-community
+langgraph
+duckduckgo-search
